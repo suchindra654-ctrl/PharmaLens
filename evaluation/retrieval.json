@@ -1,0 +1,179 @@
+[
+  {
+    "id": "RINVOQ-contraindications",
+    "drug": "RINVOQ",
+    "question": "What does the label say about contraindications?",
+    "gold_pages": [
+      2,
+      12,
+      15,
+      17,
+      23,
+      24,
+      76
+    ],
+    "anchor": "hypersensitivity",
+    "pdf_sha256": "e4bf4bfa91a77b8f6d6cc0b18f3a43910dbf27f031181bc6476ee62917affa20",
+    "annotation": "Silver lexical page relevance; requires independent clinical review"
+  },
+  {
+    "id": "HUMIRA-storage",
+    "drug": "HUMIRA",
+    "question": "What does the label say about storage?",
+    "gold_pages": [
+      8,
+      56,
+      63,
+      66,
+      67,
+      73,
+      75,
+      81,
+      87,
+      88,
+      93,
+      94
+    ],
+    "anchor": "room temperature",
+    "pdf_sha256": "6bac1b7d05495bb2b79431c4139398bc5290d79e13a12968e5f1c14898161522",
+    "annotation": "Silver lexical page relevance; requires independent clinical review"
+  },
+  {
+    "id": "HUMIRA-contraindications",
+    "drug": "HUMIRA",
+    "question": "What does the label say about contraindications?",
+    "gold_pages": [
+      2,
+      12,
+      14,
+      18,
+      57
+    ],
+    "anchor": "hypersensitivity",
+    "pdf_sha256": "6bac1b7d05495bb2b79431c4139398bc5290d79e13a12968e5f1c14898161522",
+    "annotation": "Silver lexical page relevance; requires independent clinical review"
+  },
+  {
+    "id": "SKYRIZI-storage",
+    "drug": "SKYRIZI",
+    "question": "What does the label say about storage?",
+    "gold_pages": [
+      5,
+      6,
+      7,
+      47,
+      48,
+      51,
+      54,
+      59,
+      60,
+      65,
+      66,
+      71,
+      72,
+      76,
+      77,
+      82,
+      85
+    ],
+    "anchor": "room temperature",
+    "pdf_sha256": "3994e3faf216d93048f4ac75044028a405331b2c2e10956257d11b8cb44cb729",
+    "annotation": "Silver lexical page relevance; requires independent clinical review"
+  },
+  {
+    "id": "SKYRIZI-contraindications",
+    "drug": "SKYRIZI",
+    "question": "What does the label say about contraindications?",
+    "gold_pages": [
+      1,
+      2,
+      9,
+      10,
+      12,
+      13,
+      22,
+      41
+    ],
+    "anchor": "hypersensitivity",
+    "pdf_sha256": "3994e3faf216d93048f4ac75044028a405331b2c2e10956257d11b8cb44cb729",
+    "annotation": "Silver lexical page relevance; requires independent clinical review"
+  },
+  {
+    "id": "ELIQUIS-storage",
+    "drug": "ELIQUIS",
+    "question": "What does the label say about storage?",
+    "gold_pages": [
+      13,
+      16,
+      22,
+      26
+    ],
+    "anchor": "room temperature",
+    "pdf_sha256": "2f4b9c71610bf2f0d53d529c8156ded60293a4707c20231081d4081bc25d04c2",
+    "annotation": "Silver lexical page relevance; requires independent clinical review"
+  },
+  {
+    "id": "ELIQUIS-contraindications",
+    "drug": "ELIQUIS",
+    "question": "What does the label say about contraindications?",
+    "gold_pages": [
+      1,
+      3,
+      5
+    ],
+    "anchor": "hypersensitivity",
+    "pdf_sha256": "2f4b9c71610bf2f0d53d529c8156ded60293a4707c20231081d4081bc25d04c2",
+    "annotation": "Silver lexical page relevance; requires independent clinical review"
+  },
+  {
+    "id": "OZEMPIC-storage",
+    "drug": "OZEMPIC",
+    "question": "What does the label say about storage?",
+    "gold_pages": [
+      9,
+      13,
+      15,
+      17
+    ],
+    "anchor": "room temperature",
+    "pdf_sha256": "37dbbba58786ef4c505b7bae594c938c7be0463478b78f412d0b9e3b5052b166",
+    "annotation": "Silver lexical page relevance; requires independent clinical review"
+  },
+  {
+    "id": "OZEMPIC-contraindications",
+    "drug": "OZEMPIC",
+    "question": "What does the label say about contraindications?",
+    "gold_pages": [
+      1,
+      2,
+      3,
+      4,
+      10
+    ],
+    "anchor": "hypersensitivity",
+    "pdf_sha256": "37dbbba58786ef4c505b7bae594c938c7be0463478b78f412d0b9e3b5052b166",
+    "annotation": "Silver lexical page relevance; requires independent clinical review"
+  },
+  {
+    "id": "SYNTHROID-storage",
+    "drug": "SYNTHROID",
+    "question": "What does the label say about storage?",
+    "gold_pages": [
+      19
+    ],
+    "anchor": "room temperature",
+    "pdf_sha256": "7c37429a790c6e75dbb2bbace926a478e9dae5eff47ed434c43444afa104adc5",
+    "annotation": "Silver lexical page relevance; requires independent clinical review"
+  },
+  {
+    "id": "SYNTHROID-contraindications",
+    "drug": "SYNTHROID",
+    "question": "What does the label say about contraindications?",
+    "gold_pages": [
+      10
+    ],
+    "anchor": "hypersensitivity",
+    "pdf_sha256": "7c37429a790c6e75dbb2bbace926a478e9dae5eff47ed434c43444afa104adc5",
+    "annotation": "Silver lexical page relevance; requires independent clinical review"
+  }
+]

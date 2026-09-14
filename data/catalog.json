@@ -1,0 +1,62 @@
+[
+  {
+    "drug": "RINVOQ",
+    "generic": "upadacitinib",
+    "publisher": "AbbVie",
+    "file": "rinvoq.pdf",
+    "url": "https://www.rxabbvie.com/pdf/rinvoq_pi.pdf",
+    "verification": {
+      "status": "Verified publisher match",
+      "source_url": "https://www.rxabbvie.com/pdf/rinvoq_pi.pdf",
+      "sha256": "e4bf4bfa91a77b8f6d6cc0b18f3a43910dbf27f031181bc6476ee62917affa20",
+      "checked_at": "2026-09-13T11:15:40.672497+00:00"
+    }
+  },
+  {
+    "drug": "HUMIRA",
+    "generic": "adalimumab",
+    "publisher": "AbbVie",
+    "file": "humira.pdf",
+    "url": "https://www.rxabbvie.com/pdf/humira.pdf"
+  },
+  {
+    "drug": "SKYRIZI",
+    "generic": "risankizumab-rzaa",
+    "publisher": "AbbVie",
+    "file": "skyrizi.pdf",
+    "url": "https://www.rxabbvie.com/pdf/skyrizi_pi.pdf"
+  },
+  {
+    "drug": "ELIQUIS",
+    "generic": "apixaban",
+    "publisher": "Bristol Myers Squibb / Pfizer",
+    "file": "eliquis.pdf",
+    "url": "https://packageinserts.bms.com/pi/pi_eliquis.pdf",
+    "verification": {
+      "status": "Verified publisher match",
+      "source_url": "https://packageinserts.bms.com/pi/pi_eliquis.pdf",
+      "sha256": "2f4b9c71610bf2f0d53d529c8156ded60293a4707c20231081d4081bc25d04c2",
+      "checked_at": "2026-09-13T11:17:06.960266+00:00"
+    }
+  },
+  {
+    "drug": "OZEMPIC",
+    "generic": "semaglutide",
+    "publisher": "Novo Nordisk",
+    "file": "ozempic.pdf",
+    "url": "https://www.novo-pi.com/ozempic.pdf"
+  },
+  {
+    "drug": "SYNTHROID",
+    "generic": "levothyroxine sodium",
+    "publisher": "AbbVie",
+    "file": "synthroid.pdf",
+    "url": "https://www.rxabbvie.com/pdf/synthroid.pdf",
+    "verification": {
+      "status": "Verified publisher match",
+      "source_url": "https://www.rxabbvie.com/pdf/synthroid.pdf",
+      "sha256": "7c37429a790c6e75dbb2bbace926a478e9dae5eff47ed434c43444afa104adc5",
+      "checked_at": "2026-09-13T11:17:09.820083+00:00"
+    }
+  }
+]

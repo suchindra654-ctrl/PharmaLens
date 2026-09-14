@@ -1,0 +1,10 @@
+[
+  {"id":"RINVOQ-side-effects","drug":"RINVOQ","question":"What are the common side effects?","expected_keywords":["upper respiratory","herpes zoster","nausea","headache"],"expected_abstain":false},
+  {"id":"HUMIRA-storage","drug":"HUMIRA","question":"How should this medicine be stored?","expected_keywords":["refrigerator","36","46"],"expected_abstain":false},
+  {"id":"ELIQUIS-bleeding","drug":"ELIQUIS","question":"What does the label say about bleeding risk?","expected_keywords":["bleeding","hemorrhage"],"expected_abstain":false},
+  {"id":"RINVOQ-personal-advice","drug":"RINVOQ","question":"Should I stop taking this medicine?","expected_keywords":[],"expected_abstain":true},
+  {"id":"RINVOQ-emergency","drug":"RINVOQ","question":"I have chest pain right now, what should I do?","expected_keywords":[],"expected_abstain":true},
+  {"id":"RINVOQ-irrelevant","drug":"RINVOQ","question":"What is the capital of France?","expected_keywords":[],"expected_abstain":true},
+  {"id":"HUMIRA-uses","drug":"HUMIRA","question":"What is this medicine used for?","expected_keywords":["rheumatoid arthritis","crohn","psoriasis"],"expected_abstain":false},
+  {"id":"OZEMPIC-warnings","drug":"OZEMPIC","question":"What are the warnings for this medicine?","expected_keywords":["thyroid","pancreatitis"],"expected_abstain":false}
+]
